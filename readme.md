@@ -101,49 +101,67 @@ The goal is not to prove how AI works internally, but to understand:
 
 ## 🔑 Early Observations
 
-Dataset: 57 observations | 13 queries | 5 engines | Collected: March 2026
+Dataset: 127 observations | 22 queries | 5 engines | Collected: March – April 2026
 
 ---
 
 ### 📌 General Patterns
 
 * **List-based answers dominate** — nearly all engines return ranked lists or list/table hybrids regardless of query type
-* **Review content is the most-cited content type** — "Best of" style roundups are the primary source layer AI engines pull from
-* **Product pages are rarely surfaced directly** — retail pages appear occasionally but almost never as the top citation
-* **Problem-solving queries don't cite brands** — queries like "how tight should climbing shoes be" or "how to choose ski boot size" return generic answers with no brand mentions across any engine
+* **Review content is the #1 cited content type** — editorial roundups and "best of" pages account for 52% of all cited sources across every engine and query
+* **Problem-solving queries don't cite brands** — queries like "how tight should climbing shoes be" or "how to choose ski boot size" return generic answers with no brand mentions, confirmed across 25 runs with a 4% citation rate
+* **Intent type is the strongest predictor of brand inclusion** — stronger than engine choice; Comparison queries return SCARPA 93% of the time, Problem-Solving only 4%
+* **AI engines are not replicating Google's authority hierarchy** — 56% of all citations go to small or mid-sized domains that would not rank highly by traditional SEO metrics
 
 ---
 
 ### 🏔️ SCARPA-Specific Findings
 
-* **Overall citation rate: ~60%** — SCARPA appears in roughly 6 out of 10 engine-query pairs tested
-* **Ski touring is the strongest category** — "best ski touring boots 2026" returned SCARPA at positions #1, #3, and #4 in Google AI Mode — the strongest single-query result in the dataset
-* **Bouldering queries perform well** — SCARPA holds the #1 position in both Claude and ChatGPT for "top climbing shoes for bouldering"
-* **Beginner queries are a significant gap** — "best climbing shoes for beginners" returned zero SCARPA mentions across Google AI Overviews, ChatGPT, and Claude
-* **Trail running is a blind spot** — SCARPA was not cited in any trail running query; La Sportiva appeared consistently at positions #2–4
-* **Brand framing gap vs. La Sportiva** — engines consistently describe La Sportiva as "the gold standard" or "the industry titan." SCARPA is labeled "precision engineers" — positive, but softer in authority signaling
+* **Overall citation rate: ~53%** — SCARPA appears in roughly 53 out of 100 engine-query pairs tested; down from an early 60% as the sample grew and more problem-solving and ski boot queries were added
+* **Branded queries are 100% cited** — "scarpa instinct vs drago," "best SCARPA climbing shoes," and "scarpa vs la sportiva mountaineering boots" all return SCARPA at position #1 across every engine tested
+* **Ski touring is the strongest non-branded category** — "best ski touring boots 2026" returned SCARPA at positions #1–4 across 7 runs; the Maestrale RS is the most frequently surfaced product by name
+* **SCARPA is a consistent #2 in advanced climbing shoe queries** — but La Sportiva holds #1 across all 10 runs of "Top climbing shoe brands for advanced climbers," described as "the gold standard" or "the industry titan" by ChatGPT, Claude, and Gemini
+* **Beginner queries remain underperforming** — "best climbing shoes for beginners" sits at 56% citation rate, but SCARPA appears at position #3–5 and is often labeled a "specialty choice"
+* **Trail running is a complete blind spot** — zero SCARPA citations across all trail running queries; La Sportiva appears at positions #2–4 every time
+* **Ski boots are the largest category gap** — zero citations across 22 ski boot query runs (beginner, wide-fit, sizing); Rossignol, K2, and Tecnica dominate; the content type being cited is Review — meaning the format is right but SCARPA has no presence in those roundups
 
 ---
 
 ### 🌐 Source & Domain Patterns
 
-* **Reddit is the #1 cited domain** — appearing 18 times across all observations; community discussion is a primary trust signal for AI engines
-* **Switchback Travel (12) and REI (10) are the next most cited** — review aggregators and large retailers dominate the citation layer
-* **SCARPA's AI SERP visibility is downstream of third-party review presence** — engines are not pulling from brand.com; they are pulling from the sites that review and rank products
+* **Switchback Travel is the single most cited domain** — 28 appearances across climbing shoes, bouldering, ski touring, and ski boots; it is the highest-leverage third-party platform for AI SERP visibility
+* **Reddit (26) and REI (14) round out the top three** — these three domains alone account for nearly half of all citations
+* **56% of all citations go to small or mid-sized domains** — 83 citations to small domains (57 unique) and 91 to mid-sized domains; AI engines are drawing from a far wider and flatter web than traditional SEO rankings would predict
+* **Geographically niche and low-authority retailers are being cited** — SportShoes.com (UK), Varuste.net (Finland), basecamp-shop.com (Germany), Telemark Pyrénées (France), Bentgate Mountaineering (Colorado), AlpinStore (EU), and Oliunid (EU) all appear as cited sources despite modest traditional SEO footprints
+* **Butora USA appears 8 times** — more than SCARPA's own website — largely by publishing educational content that directly answers problem-solving queries
 
 ---
 
-### ⚖️ Engine Behavior Notes
+### ⚙️ Engine Behavior Notes
 
-* **Claude and Gemini show higher SCARPA affinity** than ChatGPT for branded and comparison queries
-* **Google AI Mode tends to return more product-specific results** than AI Overviews, which skews toward editorial content
-* **ChatGPT cited zero SCARPA products** for the broad "best climbing shoes" query, favoring Evolv and La Sportiva
+* **Engines are converging** — citation rate spread across all five engines is only 9 points (Claude/Google AI Mode at 57%, ChatGPT at 48%)
+* **Claude and Google AI Mode lead** in SCARPA citation rate; ChatGPT trails slightly
+* **Google AI Overview and AI Mode pull more from Informational content** than other engines — which is why they surface fewer brands; Informational pages cite SCARPA only 11% of the time
+* **ChatGPT and Claude lean on Review content** — which is where SCARPA has the most presence
 
 ---
 
-> These are working observations — not final conclusions. The dataset is early-stage and patterns will be validated as more queries and runs are added.
+### 🔍 Emerging Hypothesis: AI Citation ≠ SEO Rank
 
+The presence of small, geographically niche, and low-authority domains in AI citations suggests AI engines are not simply reproducing Google's link-authority hierarchy. What these domains appear to share is **structured, specific, and complete product data** — detailed spec pages, size runs, product descriptions — that make them legible to AI models regardless of their traffic or backlink profile.
 
+This points to an important strategic reframe:
+
+> AI SERP visibility may be less about outranking established players and more about being **present, specific, and well-structured** wherever a product is discussed online.
+
+For SCARPA, this suggests:
+* Product data quality and completeness — on brand.com and with retail partners — may directly influence AI citation behavior
+* The barrier to being cited by AI could be lower than traditional SEO would imply
+* A deliberate data-seeding strategy with specialty retailers could expand AI footprint intentionally
+
+---
+
+> These are working observations — not final conclusions. The dataset is active and patterns will continue to be validated as more queries and runs are added.
 
 ---
 
