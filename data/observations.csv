@@ -1,0 +1,188 @@
+Query,Intent_Type,Engine,Cited_Domains,Top_Domain,Content_Type,Answer_Format,Position,Notes,Personalization_Level,Date
+best climbing shoes for beginners,Informational,Google/AI Overview,"UK Climbing, Youtube, Reddit, Oliunid",UK Climbing,Review,Mixed,0,SCARPA isn't mentioned at all.,,2026-03-25
+best climbing shoes for beginners,Informational,ChatGPT,"Treeline Review, Nomads with a Purpose, Switchback Travel, 99Boulders",Treeline Review,Review,List,0,SCARPA isn't mentioned at all.,Logged in but temporary chat,2026-03-25
+best climbing shoes for beginners,Informational,Google/AI Mode,"REI, Outdoor Gear Exchange, SCARPA North America",REI,Retail,List,3,Seems to give priority to shoes with a lot of reviews,,2026-03-25
+best climbing shoes for beginners,Informational,Claude,"Treeline Review, Outdoor Rack Boulder, Switchback Travel, CLimbing",Treeline Review,Review,List,0,SCARPA isn't mentioned at all.,,2026-03-25
+best ski touring boots 2026,Informational,Google/AI Mode,"Skimag, The Ski Monster, Switchback Travel",Skimag,Review,List,"1, 3, and 4 (out of 5!)",SCARPA killed it!,,2026-03-25
+best ski touring boots 2026,Informational,Google/AI Overview,"Gear Junkie, Better Trail, Powder Magazine",Gear Junkie,Review,List,2 (Best Backcountry),,,2026-03-26
+scarpa vs la sportiva climbing shoes,Comparison,ChatGPT,"Reddit (Climbergirls), UK Climbing, 99 Boulders",Reddit,Forum,List/Table,2,,Logged in but temporary chat,2026-03-28
+scarpa vs la sportiva climbing shoes,Comparison,Gemini,"Seems to cite itself, Google Merchant Placards",Google,Retail,List/Table,2,"Specifically mentions the ""Greek"" foot sizing: Toe Box Shape: Many find that Scarpa caters better to ""Egyptian"" foot shapes (longer big toe), while La Sportiva often fits ""Greek"" or narrower foot shapes better.",,2026-03-28
+scarpa vs la sportiva climbing shoes,Comparison,Google/AI Overview,"UK Climbing, 99 Boulders, Reddit",UK Climbing,Review,List/Table,2,,,2026-03-28
+scarpa vs la sportiva climbing shoes,Comparison,Google/AI Mode,"Climbing Shoe Review, Reddit",Climbing Shoe Review,Review,LIst/Table,N/A,,,2026-03-28
+best trail running shoes for rocky terrain,Informational,Google/AI Overview,"Reddit, Run Repeat, Switchback Travel",Reddit,Forum,LIst/Table,"0, but La Sportiva is #2!",,,2026-03-28
+best trail running shoes for rocky terrain,Informational,Google/AI Mode,"Run Repeat, Google",Run Repeat,Review,LIst/Table,"0, but La Sportiva is #2!",,,2026-03-28
+best trail running shoes for rocky terrain,Informational,ChatGPT,"Gear Lab, Reddit, Runners World",Gear Lab,Review,LIst/Table,"0, La Sportiva is #3 & #4",,Logged in but temporary chat,2026-03-28
+best trail running shoes for rocky terrain,Informational,Gemini,Running Lab,Running Lab,Review,List/Table,"0, La Sportiva is #3",,,2026-03-28
+how tight should climbing shoes be,Problem-Solving,ChatGPT,None,None,None,List/Table,2,"LaSpo Imagery is used, SCARPA is mentioned as an example of a climbing shoe brand.",,2026-03-29
+how tight should climbing shoes be,Problem-Solving,Gemini,None,None,None,LIst/Table,0,,,2026-03-29
+how tight should climbing shoes be,Problem-Solving,Google/AI Overview,"Climbing Magazine, Butora USA, Youtube",Climbing Magazine,Informational,List,0,Butora shows up!,,2026-03-29
+how tight should climbing shoes be,Problem-Solving,Google/AI Mode,"The Climbing Hangar, REI, The Boulder Planet Shop","The Climbing Hangar, REI, The Boulder Planet Shop",Informational,List/Table,0,The REI link is an info article! La Sportiva is specifically mentioned at the bottom as an example,,2026-03-29
+how tight should climbing shoes be,Problem-Solving,Claude,None,None,None,List/Check list,0,,,2026-03-29
+top climbing shoes for bouldering,Informational,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,2026-03-29
+top climbing shoes for bouldering,Informational,Google/AI Mode,"Switchback Travel, Youtube, Outdoor Life",Switchback Travel,Review,List,2,,,2026-03-29
+top climbing shoes for bouldering,Informational,Claude,"Outdoor Gear Lab, 99Bouldres, Climbing House",Outdoor Gear Lab,Review,List,1,,,2026-03-29
+top climbing shoes for bouldering,Informational,ChatGPT,"Outdoors Magic, GearJunkie, Reddit",Outdoors Magic,Review,List/Table,#1,,,2026-03-29
+what are the best mountaineering boots,Informational,ChatGPT,"REI, Switchback Travel, Outdoor Gear Lab",REI,Informational,List,"3, everything else is LaSpo",,,2026-03-29
+what are the best mountaineering boots,Informational,Claude,"Outdoor Life, Adventure Junkies, NAMAS Adventures",Outdoor Life,"Review/""Best of""",List,"2, 5, says ""LaSpo and SCARPA dominate market"", all other choices are LaSpo",,,2026-03-29
+what are the best mountaineering boots,Informational,Google/AI Overview,"Instagram (ellisbrigham), SwitchBack Travel, Exploresweb",Instagram/ellisbrigham,Product review for the boot,List/Table,3,Top-cited source was an IG account with about 30k followers,,2026-03-29
+what are the best mountaineering boots,Informational,Google/AI Mode,"Switchback Travel, GearLab, Reddit",Switchback Travel,"Review/""Best of""",List,2,,,2026-03-29
+how to choose ski boots size,Problem-Solving,Google/AI Overview,"The Ski Monster, Peter Glenn, Powder7",The Ski Monster,Guide,List,0,,,2026-03-31
+how to choose ski boots size,Problem-Solving,Google/AI Mode,"REI, REI, Gorham Bike & Ski",REI,Guide,List,0,,,2026-03-31
+how to choose ski boots size,Problem-Solving,ChatGPT,None,None,,List,0,,,2026-03-31
+how to choose ski boots size,Problem-Solving,Claude,None,None,,List/Table,0,,,2026-03-31
+are expensive climbing shoes worth it,Consideration,Claude,None,None,,Discussion,2,SCARPA is mentioned several times.,,2026-03-31
+are expensive climbing shoes worth it,Consideration,ChatGPT,"Reddit, Reddit, Reddit, Reddit",Reddit,Forum,List,0,No brands mentioned,,2026-03-31
+are expensive climbing shoes worth it,Consideration,Google/AI Overview,"Reddit, UK Climbing, Redpoint Climbing Shoes",Reddit,Forum,List,0,No brands mentioned,,2026-03-31
+are expensive climbing shoes worth it,Consideration,Google/AI Mode,"Reddit, Redpoint Climbing Shoes, Google",Reddit,Forum,List,2,Specific brands are mentioned,,2026-03-31
+best climbing shoes,Informational,Claude,"Switchback Travel, Outdoor Gear Lab, CNN",Switchback Travel,Review,List,2,,,2026-03-31
+best climbing shoes,Informational,ChatGPT,"Youtube, Climbing.com, Adamondra.com",Youtube,Review,List,0,"ZERO SCARPA! Evolv was 1, then LaSpo, Black Diamond, Evolv, LaSpo, Butora",,2026-03-31
+best climbing shoes,Informational,Google/AI Overview,"Climbing Magazine, Reddit, Adamondra.com",Climbing Magazine,Review,List,2,,,2026-03-31
+best climbing shoes,Informational,Google/AI Mode,"Switchback Travel, Google, Google",Switchback Travel,Review,List,4,"LaSpo, Black Diamond, LaSpo, SCARPA",,2026-03-31
+how tight should climbing shoes be,Problem-Solving,Google/AI Overview,"Climbing Magazine, Butora USA, Training Beta",Climbing Magazine,Informational,List,0,"Butora is cited, but no brands are mentioned in outpout",,2026-04-01
+how tight should climbing shoes be,Problem-Solving,Google/AI Mode,"Climbing Shoe Review, Butora USA, Reddit",Climbing Shoe Review,Informational,List/Table,0,"Butora is cited, but no brands are mentioned in outpout",,2026-04-01
+how tight should climbing shoes be,Problem-Solving,ChatGPT,None,None,None,List,0,"No brand is mentioned, but an image is used of a Drago. It's not cited",,2026-04-01
+how tight should climbing shoes be,Problem-Solving,Gemini,"REI, Butora USA",REI,Informational,List,0,"Butora is cited, but no brands are mentioned in outpout",,2026-04-01
+best ski boots for beginners,Informational,Google/AI Overview,"Youtube, Switchback Travel, Slope Magazine",Youtube,"Review/""Best of""",List,0,"Rossignol, K2, and Salomon are mentioned.",,2026-04-01
+best ski boots for beginners,Informational,Google/AI Mode,"Switchback Travel, TikTok (Courtwildson), Reddit",Switchback Travel,"Review/""Best of""",List,0,"Tecnica, Rossignol, and K2 is mentioned",,2026-04-01
+best ski boots for beginners,Informational,ChatGPT,Switchback Travel,Switchback Travel,"Review/""Best of""",List/Table,0,"Rossignol, Nordica, Rossignol, etc",,2026-04-01
+best ski boots for beginners,Informational,Gemini,"Reddit, Snow+Rock, Rossignol",Reddit,Forum,List/Table,0,Rossignol,,2026-04-01
+Top climbing shoe brands for advanced climbers,Informational,Google/AI Overview,"Google, Google, Boulder Planet Shop",Google,Retail,List,2,,,2026-04-05
+Top climbing shoe brands for advanced climbers,Informational,Google/AI Mode,"Gearlab, Climbing Magazine, Reddit",Gearlab,"Review/""Best of""",List,2,,,2026-04-05
+Top climbing shoe brands for advanced climbers,Informational,ChatGPT,"Climbing Shoe Review, Gear Institute,",Climbing Shoe Review,,List,2,"Called La Sportiva ""The Gold Standard,"" ""Widely considered the benchmark for high-performance shoes.""",,2026-04-05
+Top climbing shoe brands for advanced climbers,Informational,Gemini,"Outdoor Life, Outdoor Gear Lab, AdamOndra.com",Outdoor Life,"Review/""Best of""",List,2,"Calls La Sportiva ""The Industry TItan"".Calls SCARPA ""The Precision Engineers"". Oddly enough specifically credits Heinz Mariacher to SCARPA's success.",,2026-04-05
+Top climbing shoe brands for advanced climbers,Informational,Claude,"Carousell.sg, climbontherocks.com,decathlon.mt",Carousell.sg,Seems to be a pinterest type website?,List,2,"La Sportiva is again ""The Gold Standard.""",,2026-04-05
+Where to buy high-quality climbing shoes online,Informational,Google/AI Overview,"RedChiliClimbing, REI, Backcountry",RedChiliClimbing,Retail shop,List,2,"SCARPA is mentioned as a brand, but the website isn't. Oddly enough ""RedChiliClimbing"" is mentioned as a direct-from-manufactuer option.",,2026-04-05
+Where to buy high-quality climbing shoes online,Informational,Google/AI Mode,"REI, Backcountry, La Sportiva",REI,Retail,List,2,SCARPA is a brand mentioned as available from REI.,,2026-04-05
+Where to buy high-quality climbing shoes online,Informational,ChatGPT,"Gearlab, SELF, Climbing",Gearlab,"Review/""Best of""",List,3,"La Sportiva 1 & 2. It seemed to get hung up on the prop and responded more like ""what is a high-quality climbing shoe.""",,2026-04-05
+Where to buy high-quality climbing shoes online,Informational,Gemini,"REI, Backcountry, Epic TV Shop",REI,Retail,List,2,"SCARPA is mentioned as a brand available from REI, and it's also mentioned (alongside LaSpo) as available direct-from-manufacturer.",,2026-04-05
+Where to buy high-quality climbing shoes online,Informational,Claude,"REI, Backcountry, Moosejaw, Amazon",REI,Retail,List,2,SCARPA mentioned as a brand available direct from manufacturer.,,2026-04-05
+best climbing shoes for beginners,Informational,Google/AI Overview,"Climbing Magazine, Treeline Review, Switchback Travel",Climbing Magazine,"Review/""Best of""",List,3,"LaSpo, LaSpo, SCARPA",Incognito Mode,2026-04-08
+best climbing shoes for beginners,Informational,Google/AI Mode,"Treeline Review, Climbing Magazine, Switchback Travel",Treeline Review,"Review/""Best of""",List,5,"Lasportiva is listed as #1 (Finale) and Butora as #2. SCARPA Orign is listed as a ""Specialty Choice"".",Incognito Mode,2026-04-07
+best climbing shoes for beginners,Informational,ChatGPT,"Treeline Review, Switchback Travel, 99Boulders",Treeline Review,"Review/""Best of""",List,3,,Termporary Chat; Logged in,2026-04-08
+best climbing shoes for beginners,Informational,Gemini,Climbing Anchors,Climbing Anchors,"Review/""Best of""",List/Spreadsheet,5,"Butora #1, LaSpo, etc",Incognito window,2026-04-10
+best climbing shoes for beginners,Informational,Claude,"Switchback Travel, GearJunkie, Treeline Review",Switchback Travel,"Review/""Best of""",List,0,"Order is: LaSpo, LaSpo, Evolv, Butora, Black Diamond","Logged in, but individual incognito chats",2026-04-08
+best ski touring boots 2026,Informational,Google/AI Overview,"Ski Magazine, Switchback Travel, Powder7",Ski Magazine,"Review/""Best of""",List,2,Maestrale/Gea RS is #2,Incognito Mode,2026-04-08
+best ski touring boots 2026,Informational,Google/AI Mode,"GearLab, Switchback Travel, Ski Magazine",GearLab,"Review/""Best of""",List,2026-02-04,"Tecnica is #1, SCARPA/Maestrale RS is listed as #2. F1 LT is listed as #4",Incognito Mode,2026-04-07
+best ski touring boots 2026,Informational,ChatGPT,Ski,Ski,"Review/""Best of""",List,5,,"Incognito Browser, Not Logged in",2026-04-08
+best ski touring boots 2026,Informational,Gemini,"GearJunkie, The Ski Podcast, Evo",GearJunkie,"Review/""Best of""",LIst/Table,1,Maestrale & Maestrale RS!,Incognito window,2026-04-10
+best ski touring boots 2026,Informational,Claude,"Switchback Travel, GearJunkie, SKI Magazine",Switchback Travel,"Review/""Best of""",List,1,Maestrale RS #1,"Logged in, but individual incognito chats",2026-04-08
+top climbing shoes for bouldering,Informational,Google/AI Overview,"Climbing Magazine, Adamondra, Switchback Travel",Climbing Magazine,"Review/""Best of""",List,"1,2",,Incognito Mode,2026-04-08
+top climbing shoes for bouldering,Informational,Google/AI Mode,"GearLab, Google, Google",GearLab,"Revew/""Best of""",List,"1,2",Drago and Instinct VSR,Incognito Mode,2026-04-07
+top climbing shoes for bouldering,Informational,ChatGPT,Outdoor Life,Outdoor Life,"Review/""Best of""",List,0,"Evolv, Butora, Mad Rock, Black Diamond...","Incognito Browser, Not Logged in",2026-04-08
+top climbing shoes for bouldering,Informational,Gemini,"Outdoors Magic, Evolve, Ridge & River",Outdoors Magic,"Review/""Best of""",LIst/Table,1,Euro website,Incognito window,2026-04-10
+top climbing shoes for bouldering,Informational,Claude,"Climbing.com, Outdoors Magic, Outdoor Gear Lab",Climbing.com,"Review/""Best of""",List,1,Drago #1,"Logged in, but individual incognito chats",2026-04-08
+scarpa instinct vs drago,Comparison,Google/AI Overview,"Reddit, GearLab, SCARPA Global",Reddit,Forum,List,1,,Incognito Mode,2026-04-08
+scarpa instinct vs drago,Comparison,Google/AI Mode,"SCARPA Global, REI",SCARPA Global,Retail,List,"1,2",,Incognito Mode,2026-04-07
+scarpa instinct vs drago,Comparison,ChatGPT,"SportShoes.com, AlpinStore.com , GearLab",SportShoes.com,Retail,List/Table,1,Sportshoes? Small Retail shop,"Incognito Browser, Not Logged in",2026-04-08
+scarpa instinct vs drago,Comparison,Gemini,"Reddit, AlpinStore, Boulderflash",Reddit,Forum,List/Spreadsheet,1,Weird mix of sources,Incognito window,2026-04-10
+scarpa instinct vs drago,Comparison,Claude,"Outdoor Gear Lab, Outdoor Gear Lab, Climbing Shoe Review",Outdoor Gear Lab,"Review/""Best of""",List,1,,"Logged in, but individual incognito chats",2026-04-08
+best ski boots for beginner skiers,Informational,Google/AI Overview,"Switchback Travel, Youtube, Slope Magazine",Switchback Travel,"Review/""Best of""",List,0,,Incognito Mode,2026-04-08
+best ski boots for beginner skiers,Informational,Google/AI Mode,"Switchback Travel, Rossignol, Pondoz Gear",Switchback Travel,"Revew/""Best of""",List,0,,Incognito Mode,2026-04-07
+best ski boots for beginner skiers,Informational,ChatGPT,"Skittutor.com, Reddit, Thinkindoor",SkiTutor,"Review/""Best of""",List,0,Cited domains all seem small websites,"Incognito Browser, Not Logged in",2026-04-08
+best ski boots for beginner skiers,Informational,Gemini,"Wayfinderboots, Switchback Travel, Christy Sports",Wayfinder,Informational,List/Spreadsheet,0,"Highlights a boot as best for ""hands free"" option if you have backpain",Incognito window,2026-04-10
+best ski boots for beginner skiers,Informational,Claude,"Switchback Travel, Switchback Travel, GearJunkie",Switchback Travel,"Review/""Best of""",List,0,,"Logged in, but individual incognito chats",2026-04-08
+what ski boots are best for wide feet,Informational,Google/AI Overview,"Facebook, The Ski Monster, Outside Magazine",Facebook,Forum,List,0,,Incognito Mode,2026-04-08
+what ski boots are best for wide feet,Informational,Google/AI Mode,"The Ski Monster, Youtube/The Ski Monster, RealSkiers",The Ski Monster,"Revew/""Best High Volume-""",List,0,,Incognito Mode,2026-04-07
+what ski boots are best for wide feet,Informational,ChatGPT,"DecentFoot, ekosport.edu",DecentFoot,"Review/""Best of""",List,0,"Small websites cited, EU websites?","Incognito Browser, Not Logged in",2026-04-08
+what ski boots are best for wide feet,Informational,Gemini,"The Ski Monster, Wayfinderboots, Boynecountrysports.com",The Ski Monster,"Review/""Best of""",List/Spreadsheet,0,,Incognito window,2026-04-10
+what ski boots are best for wide feet,Informational,Claude,"The Ski Monster, The Wise Adventurer, The Wise Adventurer",The Ski Mondster,"Review/""Best of""",List,0,,"Logged in, but individual incognito chats",2026-04-08
+Top climbing shoe brands for advanced climbers,Informational,Google/AI Overview,"Climbing Magazine, Reddit, Outdoors Magic",Climbing Magazine,"Review/""Best of""",List,1,,Incognito Mode,2026-04-08
+Top climbing shoe brands for advanced climbers,Informational,Google/AI Mode,"Outdoor Life, 99 Boulders, Climbing Magazine",Outdoor Life,"Review/""Best of""",List,2,SCARPA is list #2 however it is the only brand that has links to products,Incognito Mode,2026-04-07
+Top climbing shoe brands for advanced climbers,Informational,ChatGPT,"Ultimate Gear Lists, Switchback Travel, Pro Climbing Footwear",Ultimate Gear Lists,"Review/""Best of""",List,2,"LaSpot #1, SCARPA #2","Incognito Browser, Not Logged in",2026-04-08
+Top climbing shoe brands for advanced climbers,Informational,Gemini,"Climbing Shoe Review, AdamOndra.com, Switchback Travel",Climbing Shoe Review,Comparison,List/Spreadsheet,2,LaSpo #1,Incognito window,2026-04-10
+Top climbing shoe brands for advanced climbers,Informational,Claude,"Varuste.net, Decathlon.mt, climbontherocks.com",Varuste.net,Retail,List,2,LaSpot #1,"Logged in, but individual incognito chats",2026-04-08
+how tight should climbing shoes be,Problem-Solving,Google/AI Overview,"TikTok (Geartrade), Training Beta, Butora USA",TikTok (Geartrade),Informational,List,0,,Incognito Mode,2026-04-08
+how tight should climbing shoes be,Problem-Solving,Google/AI Mode,"Climbing Magazine, Climbing Shoe Review, Butora USA",Climbing Magazine,Informational,List,0,,Incognito Mode,2026-04-07
+how tight should climbing shoes be,Problem-Solving,ChatGPT,No citations,No citations,No citations,List,0,No brands,"Incognito Browser, Not Logged in",2026-04-08
+how tight should climbing shoes be,Problem-Solving,Gemini,None,None,None,List/Spreadsheet,0,No brands,Incognito window,2026-04-10
+how to choose ski boots size,Problem-Solving,Claude,None,None,None,List/Table,0,No brands,"Logged in, but individual incognito chats",2026-04-08
+how to choose ski boots size,Problem-Solving,Google/AI Overview,"Treeline Review, Peter Glenn, Youtube",Treeline Review,Informational,List,0,,Incognito Mode,2026-04-08
+how to choose ski boots size,Problem-Solving,Google/AI Mode,"REi, Peter Glenn, Evo",REI,Informational,List,0,,Incognito Mode,2026-04-07
+how to choose ski boots size,Problem-Solving,ChatGPT,No citations,No citations,No citations,List,0,No brands,"Incognito Browser, Not Logged in",2026-04-08
+why are climbing shoes curved,Informational,Gemini,None,None,None,List/Spreadsheet,0,No brands,Incognito window,2026-04-10
+why are climbing shoes curved,Informational,Claude,None,None,None,List/Discussion,0,No brands,"Logged in, but individual incognito chats",2026-04-08
+why are climbing shoes curved,Informational,Google/AI Overview,"Butora USA, Youtube, Butora USA",Butora USA,Informational,List,0,,Incognito Mode,2026-04-08
+why are climbing shoes curved,Informational,Google/AI Mode,"Burtora USA, Burora USA, REI",Butora USA,Informational,List,0,"Butora has content answering common queries, i.e. What are climbing shoes curved? Aggressvie vs. Flat",Incognito Mode,2026-04-07
+What flex rating do I need for intermediate skiing?,Informational,ChatGPT,No citations,No citations,No citations,List,0,No brands,"Incognito Browser, Not Logged in",2026-04-08
+What flex rating do I need for intermediate skiing?,Informational,Gemini,None,None,None,List/Spreadsheet,0,No brands,Incognito window,2026-04-10
+What flex rating do I need for intermediate skiing?,Informational,Claude,None,None,None,List/Discussion,0,No brands,"Logged in, but individual incognito chats",2026-04-08
+What flex rating do I need for intermediate skiing?,Informational,Google/AI Overview,"Rossignol, Vertical Addition, Snowfeet",Rossignol,Informational,List,0,,Incognito Mode,2026-04-08
+How to properly size ski boots for adults,Problem-Solving,Google/AI Mode,"REI, REI, Peter Glenn",REI,Informational,List,0,,Incognito Mode,2026-04-07
+How to properly size ski boots for adults,Problem-Solving,ChatGPT,No citations,No citations,No citations,List,0,No brands,"Incognito Browser, Not Logged in",2026-04-08
+How to properly size ski boots for adults,Problem-Solving,Gemini,"OutsideOnline, Bostonskiandtennis, PeterGlenn",OutsideOnline,Informational,List,0,No brands,Incognito window,2026-04-10
+How to properly size ski boots for adults,Problem-Solving,Claude,None,None,None,List/Discussion,0,No brands,"Logged in, but individual incognito chats",2026-04-08
+best SCARPA climbing shoes,Informational,Google/AI Overview,"Youtube (SCARPA Global), us.scarpa.com, climbingshoereview",Youtube (SCARPA Global),Informational,List,1,,Incognito Mode,2026-04-08
+best SCARPA climbing shoes,Informational,Google/AI Mode,"Gearlab, Climbing Magazine, Climbing Magazine",GearLab,"Review/""Best of""",List,1-5!,"Even when you have queries directly about a specific brand, that brand is seldom/not cited.",Incognito Mode,2026-04-07
+best SCARPA climbing shoes,Informational,ChatGPT,"Bentgate Mountaineering, Neptune Mountaineering, SCARPA Spa",Bentgate Mountaineering,Retail,List,1,,"Incognito Browser, Not Logged in",2026-04-08
+best SCARPA climbing shoes,Informational,Gemini,"SCARPA Global, SCARPA Global, Outdoor Gear Lab",SCARPA Global,Product Collection Page,List,1,,Incognito window,2026-04-10
+best SCARPA climbing shoes,Informational,Claude,"Outdoor Gear Lab, Rendezvouskc, GearJunkie",Outdoor Gear Lab,"Review/""Best of""",List/Discussion,1,Rendezvouskc?,"Logged in, but individual incognito chats",2026-04-08
+scarpa vs la sportiva mountaineering boots,Comparison,Google/AI Overview,"Reddit, UKClimbing, Youtube",Reddit,Forum,List,1,,Incognito Mode,2026-04-08
+scarpa vs la sportiva mountaineering boots,Comparison,Google/AI Mode,"UKClimbing, Reddit, NWHikers.net",UK Climbing,Comparison.,List,1,,Incognito Mode,2026-04-07
+scarpa vs la sportiva mountaineering boots,Comparison,ChatGPT,"Bentgate Mountaineering, La Sportiva North America, SCARPA North America",Bentgate Mountaineering,Retail,List,1,,"Incognito Browser, Not Logged in",2026-04-08
+scarpa vs la sportiva mountaineering boots,Comparison,Gemini,"Reddit, OutdoorGearlab, NAMAS Adventure",Reddit,Forum,List,1,,Incognito window,2026-04-10
+scarpa vs la sportiva mountaineering boots,Comparison,Claude,"basecamp-shop.com, bergfreunde.eu",basecamp-shop,Retail,List/Table,1,Small retail shops cited?,"Logged in, but individual incognito chats",2026-04-08
+best rock climbing shoes 2026,Informational,Google/AI Mode,"GearLab, Treeline Review, Switchback Travel",GearLab,"Review/""Best of""",List,2,Good mix of SCARPA and LaSpo Models,Incognito Mode,2026-04-07
+best rock climbing shoes 2026,Informational,ChatGPT,"Telemark Pyreness, Bentgate Mountaineering, Oliunid",Telemark Pyreness,Retail,List,4,"Ordering: LaSpo, LaSpo, Evolv, SCARPA","Incognito Browser, Not Logged in",2026-04-08
+best rock climbing shoes 2026,Informational,Gemini,"Outdoorsportwire,climbing.com,Reddit",Outdoorsportwire,Announcement,LIst/Table,2,"""LaSpo & SCARPA Dominate the rankings""",Incognito window,2026-04-10
+best rock climbing shoes 2026,Informational,Claude,"Outdoor Gear Lab, Climbing.com, Rock Climbing Realms",Outdoor Gear Lab,"Review/""Best of""",List,2026-02-04,LaSpo #1 and everything else,"Logged in, but individual incognito chats",2026-04-08
+best rock climbing shoes 2026,Informational,Google/AI Overview,"Climbing Magazine, GearJunkie, Youtube",Climbing Magazine,"Review/""Best of""",List,2,"LaSpo, SCARPA, LaSpo, SCARPA",Incognito Mode,2026-04-08
+best backcountry ski boots,Informational,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,Incognito Mode,2026-04-10
+best backcountry ski boots,Informational,Google/AI Mode,"GearLab, Switchback Travel, Evo",GearLab,Review,List,"1,3,4",,Incognito Mode,2026-04-10
+best backcountry ski boots,Informational,ChatGPT,"Gearlab, Switchback Travel",GearLab,Review,List,2,,"Incognito Mode, not logged in",2026-04-10
+best backcountry ski boots,Informational,Gemini,"The Ski Monster, GearJunkie, Outdoor Gear Lab",The Ski Monster,Review,List,1,,"Incognito Mode, not logged in",2026-04-10
+best backcountry ski boots,Informational,Claude,"Switchback Travel, GearJunkie, Ski Magazine, Paddleroundthepier",Switchback Travel,Review,List,"1,2,3,4","Loves SCARPA so much it makes up a model! The ""Maestrale 110""",Temporary Chat,2026-04-10
+best ski boots for expert skiers,Informational,Google/AI Overview,"Skimag, GearLab, Switchback Travel",Skimag,Review,List,6,"The results are organized under ""Top Ski Boots for Advanced Skiers"" and then ""Best Hybrid Boots for Experts"", of which the Quattro is listed #1",Incognito Mode,2026-04-10
+best ski boots for expert skiers,Informational,Google/AI Mode,"Skimag, GearLab, Youtube (The Ski Monster)",Skimag,Review,List,9,"Maestrale RS is 2nd under ""Expert Hybrid & Backcountry Boots"" but the 9th overall boot listed",Incognito Mode,2026-04-10
+best ski boots for expert skiers,Informational,ChatGPT,"Sundance Ski and Board Shop, Evo, Backcountry,",Sundance Ski and Board Shop,Retail,List,0,"The top boot recommended is an old(er), inexpensive boot. Maybe it's recommending it based on traffic/sales?",Incognito Mode,2026-04-10
+best ski boots for expert skiers,Informational,Gemini,"The Ski Monster, Outside Magazine, Men's Journal",The Ski Monster,Review,List,0,,Incognito Mode,2026-04-10
+best ski boots for expert skiers,Informational,Claude,"Men's Journal, Better Trail, SKI Magazine",Men's Journal,Review,List,7,"Quattro Pro listed as ""Best for Touring/Resort Split"". Switchback Travel is cited.",Temporary Chat,2026-04-10
+best backcountry ski boots 2026,Informational,Google/AI Overview,"SKI Magazine, WIldsnow, GearJunkie",SKI Magazine,Review,List,2,,Incognito,2026-04-10
+best backcountry ski boots 2026,Informational,Google/AI Mode,"Switchback Travel, Google, Google",Switchback Travel,Review,List,"1,4,7",,Incognito,2026-04-10
+best backcountry ski boots 2026,Informational,ChatGPT,"Ski Rando Magazine, Dealmoon, Backcountry Skiing Canada",Ski Rando Magazine,Review,List,2,Quattro GT! Interesting call out!,"Incognito, not logged in",2026-04-10
+best backcountry ski boots 2026,Informational,Gemini,"Switchback Travel, Outdoor Gear Lab, Powder7",Switchback Travel,Review,List,1,Maestrale / Maestrale RS #1,"Incognito, not logged in",2026-04-10
+best backcountry ski boots 2026,Informational,Claude,"Switchback Travel, Gear Junkie, SKI Magazine",Switchback Travel,Review,List,"1,3,5,7",,Temporary Chat,2026-04-10
+best freeride ski boots,Informational,Google/AI Overview,"Youtube (Backcountry), POWDER Magazine, SKImag",Youtube,Review,List,1,Claude doesn't mention SCARPA but Google AI Overview has the Quattro PRO as #1,"Incognito, not logged in",2026-04-10
+best freeride ski boots,Informational,Google/AI Mode,"Skimag, The SKi Monster, Mountain Weekly News",SkiMag,Review,List,6,Quattro PRO still but moved to 6th!,"Incognito, not logged in",2026-04-10
+best freeride ski boots,Informational,ChatGPT,"REI, Coloradokayak, evo",REI,Retail,List,4,Maestrale RS,"Incognito, not logged in",2026-04-10
+best freeride ski boots,Informational,Gemini,"Ski Rando Magazine, Switchback Travel, Powder7",Ski Rando Magazine,Review,List,5,Quattro PRO,"Incognito, not logged in",2026-04-10
+best freeride ski boots,Informational,Claude,"POWDER Magazine, TheSkiPodCast, Newschoolers",POWDER Magazine,Review,List,0,,Temporary Chat,2026-04-10
+scarpa quattro vs la sportiva synchro,Comparison,Google/AI Overview,"Wildsnow, Reddit, Off-piste Magazine",Wildsnow,Review,List,1,,"Incognito, not logged in",2026-04-10
+scarpa quattro vs la sportiva synchro,Comparison,Google/AI Mode,"Youtube (Dead Drift Consulting), Youtube (Verde Brand Communications), Reddit",Youtube,Review,Table,1,"Very small Youtube channels cited, 300 and 400 subscribers respectively","Incognito, not logged in",2026-04-10
+scarpa quattro vs la sportiva synchro,Comparison,ChatGPT,"SCARPA North America, Outdoor Gear Exchange, REI",SCARPA North America,Review,Table,1,,"Incognito, not logged in",2026-04-10
+scarpa quattro vs la sportiva synchro,Comparison,Gemini,"Powder Magazine, Wildsnow, AlpinStore",Powder Magazine,Review,List,1,"Commentary on the Quattro PRO is very specific, calling it ""notoriously low volume""","Incognito, not logged in",2026-04-10
+scarpa quattro vs la sportiva synchro,Comparison,Claude,"Switchback Travel, Backcountry Skiing Canada, Wildsnow",Switchback Travel,Review,Table,1,,Temporary Chat,2026-04-10
+best climbing shoe brand,Informational,Google/AI Overview,"Reddit, Reddit, AdamOndra.com",Reddit,Review,List,2,LaSpo #1,Incognito Mode,2026-04-13
+best climbing shoe brand,Informational,Google/AI Mode,"Switchback Travel, Reddit, Climbing Shoe Review",Switchback Travel,Review,List,2,,Incognito Mode,2026-04-13
+best climbing shoe brand,Informational,ChatGPT,"Switchback Travel, REI, Reddit",Switchback Travel,Review,List,2,,Incognito Mode,2026-04-13
+best climbing shoe brand,Informational,Gemini,Outdoor Gear lab,Outdoor Gear Lab,Review,List,2,No other citations,Incognito Mode,2026-04-13
+best climbing shoe brand,Informational,Claude,"Alpinetrek.co.uk, varuste.net, alpinetrek.co.uk",Alpinetrek.co.uk,Retail,List,2,"This output calls SCARPA ""Narrow"". Which is in contrast to other outputs calling it wide. Says "" If you can only pick one, La Sportiva is the safest bet for quality and variety.""",Temporary Chat,2026-04-13
+scarpa climbing shoes review,Informational,Google/AI Overview,"Reddit, GearLab, Youtube (EpicTV)",Reddit,Forum,List,1,,Incognito Mode,2026-04-13
+scarpa climbing shoes review,Informational,Google/AI Mode,"Wordpress (EverythingAboutClimbing), Climbing Gear Reviews, Youtube (Andrescalade)",Wordpress (EverythingAboutClimbing),Review,List,1,"Very small domains cited, somebody's wordpress website and a youtube channel with 3k subscribers",Incognito Mode,2026-04-13
+scarpa climbing shoes review,Informational,ChatGPT,"SCARPA North America, Backcountry, SCARPA Spa",SCARPA North America,Retail,List,1,Vapor V is ranked as #1,Incognito Mode,2026-04-13
+scarpa climbing shoes review,Informational,Gemini,Nothing cited,Nothing cited,Nothing cited,List,1,Instinct VS #1,Incognito Mode,2026-04-13
+scarpa climbing shoes review,Informational,Claude,"SportShoes.com, glisshop.co.uk, Climbing.com, Gear Junkie",Sportsshoes.com,Retail,List,1,Arpia V is #1,Temporary Chat,2026-04-13
+how to choose climbing shoes,Problem-Solving,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,2026-04-13
+how to choose climbing shoes,Problem-Solving,Google/AI Mode,"REI, Climbing Magazine, Glisshop",REI,Guide,List,0,Sponsored LaSpo products are shown,Incognito Mode,2026-04-13
+how to choose climbing shoes,Problem-Solving,ChatGPT,"REI, Switchback Travel, Reddit",REI,Guide,,0,"List brands, but not SCARPA",Incognito Mode,2026-04-13
+how to choose climbing shoes,Problem-Solving,Gemini,Nothing cited,Nothing cited,Nothing cited,List,2,"Oddly enough referenced several brands including SCARPA as options, then offered to make me a tool to help size myself which I shared with Matt and it seemed to be just random/nothingness.",Incognito Mode,2026-04-13
+how to choose climbing shoes,Problem-Solving,Claude,Nothing cited,Nothing cited,Nothing cited,List,0,No brands cited,Temporary Chat,2026-04-13
+SCARPA shoes,Informational,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,Incognito Mode,2026-04-13
+SCARPA shoes,Informational,Google/AI Mode,"SCARPA North America, REI",SCARPA North America,Retail,List,1,,Incognito Mode,2026-04-13
+SCARPA shoes,Informational,ChatGPT,"SCARPA Global, JAX Loveland West Outdoor Gear, Farm & Ranch, SCARPA North America",SCARPA Global,Retail,List,1,https://www.yoox.com/ was a paid ad that appeared,Incognito Mode,2026-04-13
+SCARPA shoes,Informational,Gemini,"Wikipedia, SCARPA Global",Wikepedia,Editorial,List,1,First Wikipedia citation!,Incognito Mode,2026-04-13
+SCARPA shoes,,Claude,"climbinggearreviews.com,basecamp-shop.com,climbing.com",climbinggearreviews,Review,List,1,"Says ""Made in Italy with excellent craftsmanship""",Incognito Mode,2026-04-20
+SCARPA boots,,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,Incognito Mode,2026-04-20
+SCARPA boots,,Google/AI Mode,"Wikipedia, SCARPA North America, REI",Wikipedia,Editorial,List,1,SCARPA North America dominates,Incognito Mode,2026-04-20
+SCARPA boots,,ChatGPT,"scarpa-boots.com, SCARPA North America, SCARPA Global",scarpa-boots.com,Retail (Fraud website),List,1,The top-cited website is a fake SCARPA website.,Incognito Mode,2026-04-20
+SCARPA boots,,Gemini,"Outdoorsportswire.com, Switchback Travel, us.scarpa.com",Outdoorsportswire,Editorial,List,1,"Calls SCARPA the ""Ferrari"" of mountain footwear; cited our ""SCARPA Spring 2026 Collection""!-collection on us.scarpa.com",Incognito Mode,2026-04-20
+SCARPA boots,,Claude,"ubuy.co.in, bergfreunde.eu, alpinetrek.co.uk",ubuy.co.in,Retail,List,1,,Incognito Mode,2026-04-20
+SCARPA climbing shoes,,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,,Incognito Mode,2026-04-22
+SCARPA climbing shoes,,Google/AI Mode,"SCARPA North America, UK Climbing, Climbing Gear Reviews",SCARPA North America,Retail,List,1,"Calls out the Origin as ""Beginner-friendly"", something directly pulled from it's main citation on the SCARPA North America PDP",Incognito Mode,2026-04-22
+SCARPA climbing shoes,,ChatGPT,"SELF.com, SCARPA North America, SCARPA North America",SELF.com,Review,List,1,,Incognito Mode,2026-04-22
+SCARPA climbing shoes,,Gemini,"outdoorindustry.org, planetmountain.com, outdoorsmagic.com",outdoorindustry.org,Editorial,List,1,,Incognito Mode,2026-04-22
+SCARPA climbing shoes,,Claude,"bike24, Backcountry.com, Alpinetrek.co.uk",Bike24,Retail,List,1,,Incognito Mode,2026-04-22
+SCARPA,,Google/AI Overview,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,AI Overview not generated,,Incognito Mode,2026-04-22
+SCARPA,,Google/AI Mode,"SCARPA North America, Amazon, Wikipedi",SCARPA North America,Retail,List,1,"Also shares ""thinkscarpa.com""",Incognito Mode,2026-04-22
+SCARPA,,ChatGPT,"SCARPA Global, climbingshoereview.com, SCARPA North America",SCARPA Global,Retail,List,1,,Incognito Mode,2026-04-22
+SCARPA,,Gemini,No citations,,,,1,Specifically credits Heinz Mariacher to SCARPA's success,Incognito Mode,2026-04-22
+SCARPA,,Claude,"ubuy.co.in, bike24.com, alpinetrek.co.uk",ubuy.co.in,Retail,List,1,,Incognito Mode,2026-04-22
